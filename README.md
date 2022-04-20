@@ -17,3 +17,5 @@ I like <a href='https://steamcommunity.com/id/persaiscrying/'>Steam</a>. You sho
   <p align=center>
     <img src=https://user-images.githubusercontent.com/83146584/154866453-9e971a08-cf5a-41ce-80b8-e413816a3deb.gif>
     </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusclmb&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusclmb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
