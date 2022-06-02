@@ -8,6 +8,13 @@
 
 <hr/>
 
+<h3 align="center">
+	tools
+</h3>
+<p align='center'>
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+</p>
+
 <p align='center'>
   I've been stuck inside my computer since 1998. Help.
 	<br>
