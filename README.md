@@ -12,7 +12,7 @@
 	tools
 </h3>
 <p align='center'>
-	<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green" />  <img src="https://img.shields.io/badge/django%20rest-000000?style=for-the-badge&logo=django&logoColor=green" />  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />  <img src="https://img.shields.io/badge/Twilio-000000?style=for-the-badge&logo=Twilio&logoColor=red" />  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=blue" />
+	<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green" />  <img src="https://img.shields.io/badge/django%20rest-000000?style=for-the-badge&logo=django&logoColor=green" />  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=blue" />
 </p>
 
 <p align='center'>
