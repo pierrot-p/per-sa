@@ -9,10 +9,10 @@
 <hr/>
 
 <h3 align="center">
-	tools
+	my fav
 </h3>
 <p align='center'>
-	<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green" />  <img src="https://img.shields.io/badge/django%20rest-000000?style=for-the-badge&logo=django&logoColor=green" />   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=blue" />
+Python & Django
 </p>
 
 <p align='center'>
