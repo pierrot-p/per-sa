@@ -1,3 +1,5 @@
+
+
 <h3 align='center'>
   Don't be afraid to try new things.
   </h3>
@@ -9,10 +11,17 @@
 <hr/>
 
 <h3 align="center">
-	my fav
+	fun things
 </h3>
 <p align='center'>
-Python & Django
+<img src=https://img.shields.io/badge/-Django-black?logo=django />
+<img src=https://img.shields.io/badge/-Django%20REST-black?logo=django />
+<img src=https://img.shields.io/badge/-Python-black?logo=python />
+<img src=https://img.shields.io/badge/-Vue.js-black?logo=vue.js />
+<img src=https://img.shields.io/badge/-CSharp-black?logo=csharp />
+<img src=https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql />
+<img src=https://img.shields.io/badge/-SQLite-black?logo=sqlite />
+
 </p>
 
 <p align='center'>
@@ -21,10 +30,13 @@ Python & Django
 I like <a href='https://steamcommunity.com/id/persaiscrying/'>Steam</a>. You should add me there.
   </p>
 
-  <p align=center>
-    <img src=https://user-images.githubusercontent.com/83146584/154866453-9e971a08-cf5a-41ce-80b8-e413816a3deb.gif>
-    </p>
-    
-Working on it| Main Languages
------------- | -------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusclmb&hide=prs,issues,contribs&show_icons=true&count_private=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusclmb&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+	<img src=https://user-images.githubusercontent.com/83146584/154866453-9e971a08-cf5a-41ce-80b8-e413816a3deb.gif>
+</p>
+ 
+
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusclmb&hide=prs,issues,contribs&show_icons=true&count_private=true&theme=radical)
+</div>
