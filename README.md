@@ -24,10 +24,7 @@
 
 </p>
 
-<p align='center'>
-  I've been stuck inside my computer since 1998. Help.
-	<br>
-  </p>
+
 
 <p align=center>
 	<img src=https://user-images.githubusercontent.com/83146584/154866453-9e971a08-cf5a-41ce-80b8-e413816a3deb.gif>
