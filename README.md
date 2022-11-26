@@ -18,7 +18,8 @@
 <img src=https://img.shields.io/badge/-Python-black?logo=python />
 <img src=https://img.shields.io/badge/-Vue.js-black?logo=vue.js />
 <img src=https://img.shields.io/badge/-Rust-black?logo=rust />
-<img src=https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql />
+<img src=https://img.shields.io/badge/-Csharp-black?logo=csharp />
+
 
 </p>
 
