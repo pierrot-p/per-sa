@@ -1,7 +1,7 @@
 
 
 <h3 align='center'>
-  Don't be afraid to try new things.
+  don't be afraid to try new things
   </h3>
 
 <p align="center">
@@ -11,14 +11,10 @@
 <hr/>
 
 <h3 align="center">
-	fun things
+	ain't no mountain high enough
 </h3>
 <p align='center'>
-<img src=https://img.shields.io/badge/-Django-black?logo=django />
-<img src=https://img.shields.io/badge/-Python-black?logo=python />
-<img src=https://img.shields.io/badge/-Vue.js-black?logo=vue.js />
-<img src=https://img.shields.io/badge/-Rust-black?logo=rust />
-<img src=https://img.shields.io/badge/-Csharp-black?logo=csharp />
+Average Person | Average Developer | Average Comp. Science Student
 
 
 </p>
